@@ -1,6 +1,3 @@
-# VBA-Userform-Resize-Icons
----
-
 # VBA Grimoire: Maximize and Minimize Buttons for UserForms
 
 Welcome to the VBA Grimoire, where we unlock the power of custom VBA scripts to enhance your Office applications. This repository contains a powerful VBA module designed to detect your server environment (32-bit or 64-bit) and appropriately add Maximize and Minimize buttons to your UserForms.
